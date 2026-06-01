@@ -56,6 +56,7 @@
 ### Step 11:
   Stop
 # Program:
+```
 #include <stdio.h>
 
 int main() {
@@ -83,7 +84,7 @@ int main() {
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
-
+```
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd-M2
 # IAPR-2- Module 2 - FoC
 # Ex.No:7
@@ -112,6 +113,7 @@ Thus, the program was implemented and executed successfully, and the required ou
   Stop
 
 # Program:
+```
 #include <stdio.h>
 
 int main()
@@ -127,6 +129,7 @@ int main()
 
     return 0;
 }
+```
 
 # Output:
 <img width="1473" height="482" alt="image" src="https://github.com/user-attachments/assets/bc0eea83-a105-469a-9ed1-5fb414af1718" />
@@ -174,6 +177,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 7:   
   Stop
 # Program:
+```
 #include <stdio.h>
 #include <stdbool.h>
 
@@ -200,6 +204,7 @@ int main() {
 
     return 0;
 }
+```
 # Output:
 <img width="510" height="232" alt="image" src="https://github.com/user-attachments/assets/2857aeca-2e2d-41d8-9f90-b537776d3700" />
 
@@ -251,6 +256,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+```
 #include<stdio.h>
 int main()
 {
@@ -274,12 +280,12 @@ int main()
     return 0;
     
 }
+```
 # Output:
 <img width="546" height="277" alt="image" src="https://github.com/user-attachments/assets/8e8d4a35-f4b9-48f7-9720-b709f08cd39c" />
 
 # Result: 
   Thus, the program was implemented and executed successfully, and the required output was obtained.
-
   
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd-M2
 # IAPR-2- Module 2 - FoC
@@ -330,6 +336,7 @@ int main()
 ### Step 8:
   Stop
 # Program:
+```
 #include <stdio.h>
 
 int main()
@@ -349,6 +356,7 @@ int main()
 
     return 0;
 }
+```
 # Output:
 <img width="1325" height="587" alt="image" src="https://github.com/user-attachments/assets/548706fd-e91c-4b84-84e1-bc3b1956ba30" />
 
